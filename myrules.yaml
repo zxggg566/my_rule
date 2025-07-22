@@ -1,7 +1,7 @@
 payload:
-    - +.pornhub.com
-    - +.phncdn.com
-    - +.xvideos.com
-    - +.xvideos-cdn.com
-    - +.spankbang.com
-    - +.sb-cd.com
+    - DOMAIN-SUFFIX,pornhub.com
+    - DOMAIN-SUFFIX,phncdn.com
+    - DOMAIN-SUFFIX,xvideos.com
+    - DOMAIN-SUFFIX,xvideos-cdn.com
+    - DOMAIN-SUFFIX,spankbang.com
+    - DOMAIN-SUFFIX,sb-cd.com
